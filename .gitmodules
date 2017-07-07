@@ -10,3 +10,6 @@
 [submodule "iiest/DisasterMessenger"]
 	path = iiest/DisasterMessenger
 	url = https://github.com/iiest-disarm/DisasterMessenger
+[submodule "kgec/Rumor-code"]
+	path = kgec/Rumor-code
+	url = https://github.com/tamal13kgec/Rumor-code
