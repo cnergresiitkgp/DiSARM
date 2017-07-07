@@ -1,0 +1,3 @@
+[submodule "iit-kgp/urbaneye"]
+	path = iit-kgp/urbaneye
+	url = https://github.com/rohit246/urbaneye.git
