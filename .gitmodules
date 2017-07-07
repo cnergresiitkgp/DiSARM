@@ -1,3 +1,12 @@
 [submodule "iit-kgp/urbaneye"]
 	path = iit-kgp/urbaneye
 	url = https://github.com/rohit246/urbaneye.git
+[submodule "hit/crowns"]
+	path = hit/crowns
+	url = https://github.com/souvikbasuhit/CROWNS.git
+[submodule "iimc/NCoRe"]
+	path = iimc/NCoRe
+	url = https://github.com/moumita0979/NCoRe.git
+[submodule "iiest/DisasterMessenger"]
+	path = iiest/DisasterMessenger
+	url = https://github.com/iiest-disarm/DisasterMessenger
