@@ -13,3 +13,15 @@
 [submodule "kgec/Rumor-code"]
 	path = kgec/Rumor-code
 	url = https://github.com/tamal13kgec/Rumor-code
+[submodule "iit-kgp/disaster_summarizer"]
+	path = iit-kgp/disaster_summarizer
+	url = https://github.com/krudra/disaster_summarizer
+[submodule "nit-dgp/psync-pc"]
+	path = nit-dgp/psync-pc
+	url = https://github.com/ItsForkIT/psync-pc
+[submodule "nit-dgp/offlinemcs"]
+	path = nit-dgp/offlinemcs
+	url = https://github.com/ItsForkIT/offlinemcs
+[submodule "nit-dgp/pdm"]
+	path = nit-dgp/pdm
+	url = https://github.com/ItsForkIT/pdm
